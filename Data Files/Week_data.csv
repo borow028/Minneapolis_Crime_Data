@@ -1,0 +1,8 @@
+Weekday,Wkday,WE_WD
+0,Mon,Weekday
+1,Tue,Weekday
+2,Wed,Weekday
+3,Thurs,Weekday
+4,Fri,Weekend
+5,Sat,Weekend
+6,Sun,Weekend
